@@ -1,6 +1,7 @@
 {
   "name": "angular-build-with-github-actions",
   "version": "0.0.0",
+  "homepage": "http://robby570.tw/angular-build-with-github-actions/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
